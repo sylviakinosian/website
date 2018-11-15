@@ -26,41 +26,41 @@ theme = "prologue"
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Ipsum Feugiat"
+  title = "Polystichum hancockii, immature indusia"
   alt = ""
-  source = "img/pic02.jpg"
+  source = "img/h1.jpg"
   url = "#"
 
 [[params.portfolio1]]
-  title = "Rhoncus Semper"
+  title = "P. hancockii, mature indusia peeling away from sporangia"
   alt = ""
-  source = "img/pic03.jpg"
+  source = "img/h2.jpg"
   url = "#"
 
 # Portfolio column two
 
 [[params.portfolio2]]
-  title = "Magna Nullam"
+  title = "S. parsifolia"
   alt = ""
-  source = "img/pic04.jpg"
+  source = "img/sel.jpg"
   url = "#"
 
 [[params.portfolio2]]
-  title = "Natoque Vitae"
+  title = "Ceratopteris thalictroides"
   alt = ""
-  source = "img/pic05.jpg"
+  source = "img/cer1.jpg"
   url = "#"
 
 # Portfolio column 3
 
 [[params.portfolio3]]
-  title = "Dolor Penatibus"
+  title = "Ceratopteris thalictroides"
   alt = ""
-  source = "img/pic06.jpg"
+  source = "img/cer2.jpg"
   url = "#"
 
 [[params.portfolio3]]
-  title = "Orci Convallis"
+  title = "Histiopteris incisa"
   alt = ""
-  source = "img/pic07.jpg"
+  source = "img/hy.jpg"
   url = "#"

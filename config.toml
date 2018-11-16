@@ -26,7 +26,7 @@ theme = "prologue"
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Polystichum hancockii, immature indusia"
+  title = "Polystichum hancockii"
   alt = ""
   source = "img/h1.jpg"
   url = "#"
@@ -40,7 +40,7 @@ theme = "prologue"
 # Portfolio column two
 
 [[params.portfolio2]]
-  title = "S. parsifolia"
+  title = "Selliguea parsifolia"
   alt = ""
   source = "img/sel.jpg"
   url = "#"

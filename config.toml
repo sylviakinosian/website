@@ -45,10 +45,10 @@ theme = "prologue"
   source = "img/sel.jpg"
   url = "#"
 
-[[params.portfolio2]]
-  title = "Ceratopteris thalictroides"
+[[params.portfolio2]] 
+  title = "Histiopteris incisa"
   alt = ""
-  source = "img/cer1.jpg"
+  source = "img/hy.jpg"
   url = "#"
 
 # Portfolio column 3
@@ -60,7 +60,7 @@ theme = "prologue"
   url = "#"
 
 [[params.portfolio3]]
-  title = "Histiopteris incisa"
+  title = "Ceratopteris thalictroides"
   alt = ""
-  source = "img/hy.jpg"
+  source = "img/cer1.jpg"
   url = "#"

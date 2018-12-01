@@ -32,10 +32,10 @@ theme = "prologue"
   url = "#"
 
 [[params.portfolio1]]
-  title = "P. hancockii"
-  alt = ""
-  source = "img/h2.jpg"
-  url = "#"
+  title = "Dryopteris celsa"
+  alt = "This is a tetraploid"
+  source = "img/celsa.jpg"
+  url = "http://www.fernsoftheworld.com/2015/07/04/dryopteris-celsa/"
 
 # Portfolio column two
 
